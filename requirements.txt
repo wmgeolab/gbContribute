@@ -1,0 +1,8 @@
+dj-database-url
+django==3.2.19
+geopandas==0.14.0
+gunicorn==20.0.4
+pygithub==1.55
+pyshp==2.1.3
+python-decouple
+whitenoise==5.2.0

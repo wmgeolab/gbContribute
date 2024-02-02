@@ -1,0 +1,7 @@
+2024-02-01 20:03:40: (INFO) Entered into try block at shapefile conversion
+2024-02-01 20:03:40: (INFO) added meta file into zip
+2024-02-01 20:03:40: (INFO) Entered into try block at geojson generation
+2024-02-01 20:03:40: (INFO) Entered into try block at pull_url
+2024-02-01 20:03:41: (INFO) Entered into try block in submit method
+2024-02-01 20:03:42: (INFO) Entered into except block in submit method
+2024-02-01 20:03:42: (ERROR) An error occurred at github method:422 {"message": "Invalid request.\n\n\"sha\" wasn't supplied.", "documentation_url": "https://docs.github.com/rest/repos/contents#create-or-update-file-contents"}
